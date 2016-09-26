@@ -1,0 +1,7 @@
+.obj
+.moc
+.ui
+.qmake.stash
+Makefile
+Makefile.*
+object_script.*
